@@ -17,7 +17,7 @@ A simple prompt with minimal instructions.
  output
 <img width="662" height="431" alt="image" src="https://github.com/user-attachments/assets/ebc2e5ab-4d18-484c-b8d8-2b9a92d1ab1c" />
 
-image
+
 ## 2. Zero-Shot Prompt
 The AI receives the task without examples, but with clearer, more specific instructions.
 
@@ -28,7 +28,6 @@ Prompt: Explain how artificial intelligence is used in everyday life. Describe a
  
 <img width="649" height="645" alt="image" src="https://github.com/user-attachments/assets/08fcb6c0-a549-4dd1-884d-2d3da0be63b6" />
 
-image image
 ## 3. Few-Shot Prompt
 The AI is given examples before the task to establish the expected format and style.
 
